@@ -140,29 +140,9 @@ body[data-slug="index"] {
 	content: "";
 	position: absolute;
 	inset: 0;
-	width: 0;
+	width: var(--cpra-progress, 0%);
 	border-radius: inherit;
 	background: linear-gradient(90deg, var(--secondary), color-mix(in srgb, var(--secondary) 75%, var(--tertiary) 25%));
-}
-
-.cpra-progress.cpra-processing::after {
-	width: 55%;
-}
-
-.cpra-progress.cpra-filed::after {
-	width: 15%;
-}
-
-.cpra-progress.cpra-acknowledged::after {
-	width: 30%;
-}
-
-.cpra-progress.cpra-partial::after {
-	width: 75%;
-}
-
-.cpra-progress.cpra-complete::after {
-	width: 100%;
 }
 
 .cpra-request-id {
