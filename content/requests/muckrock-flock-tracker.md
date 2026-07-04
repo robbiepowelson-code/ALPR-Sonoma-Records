@@ -13,6 +13,10 @@ Status scale: Initial/Processing (15%) -> Acknowledged (25%) -> In Progress (35%
 
 _Auto-updated from MuckRock on 2026-07-04_
 
+### City of Cloverdale
+
+_Cities_
+
 <div class="cpra-tracker-grid">
   <article class="cpra-tracker-item">
     <header>
@@ -22,7 +26,13 @@ _Auto-updated from MuckRock on 2026-07-04_
     <div class="cpra-progress cpra-processing" style="--cpra-progress: 15%;" role="img" aria-label="Processing: approximately 15 percent complete"></div>
     <p class="cpra-request-id">MuckRock Request #214817</p>
   </article>
+</div>
 
+### City of Cotati
+
+_Cities_
+
+<div class="cpra-tracker-grid">
   <article class="cpra-tracker-item">
     <header>
       <h3><a href="https://www.muckrock.com/foi/cotati-3170/flock-safety-alpr-records-contracts-audit-logs-sb-34-communications-cotati-police-department-214820/">Cotati Police Department</a></h3>
@@ -31,7 +41,13 @@ _Auto-updated from MuckRock on 2026-07-04_
     <div class="cpra-progress cpra-processing" style="--cpra-progress: 15%;" role="img" aria-label="Processing: approximately 15 percent complete"></div>
     <p class="cpra-request-id">MuckRock Request #214820</p>
   </article>
+</div>
 
+### City of Healdsburg
+
+_Cities_
+
+<div class="cpra-tracker-grid">
   <article class="cpra-tracker-item">
     <header>
       <h3><a href="https://www.muckrock.com/foi/healdsburg-3241/flock-safety-alpr-records-contracts-audit-logs-sb-34-communications-healdsburg-police-department-214818/">Healdsburg Police Department</a></h3>
@@ -40,7 +56,13 @@ _Auto-updated from MuckRock on 2026-07-04_
     <div class="cpra-progress cpra-processing" style="--cpra-progress: 15%;" role="img" aria-label="Processing: approximately 15 percent complete"></div>
     <p class="cpra-request-id">MuckRock Request #214818</p>
   </article>
+</div>
 
+### City of Sonoma
+
+_Cities_
+
+<div class="cpra-tracker-grid">
   <article class="cpra-tracker-item">
     <header>
       <h3><a href="https://www.muckrock.com/foi/sonoma-3453/flock-safety-alpr-records-contracts-audit-logs-sb-34-communications-office-of-the-city-manager-214816/">Office Of The City Manager</a></h3>
@@ -49,7 +71,13 @@ _Auto-updated from MuckRock on 2026-07-04_
     <div class="cpra-progress cpra-processing" style="--cpra-progress: 15%;" role="img" aria-label="Processing: approximately 15 percent complete"></div>
     <p class="cpra-request-id">MuckRock Request #214816</p>
   </article>
+</div>
 
+### City of Petaluma
+
+_Cities_
+
+<div class="cpra-tracker-grid">
   <article class="cpra-tracker-item">
     <header>
       <h3><a href="https://www.muckrock.com/foi/petaluma-224/flock-safety-alpr-records-contracts-audit-logs-sb-34-communications-petaluma-police-department-214822/">Petaluma Police Department</a></h3>
@@ -58,7 +86,13 @@ _Auto-updated from MuckRock on 2026-07-04_
     <div class="cpra-progress cpra-processing" style="--cpra-progress: 15%;" role="img" aria-label="Processing: approximately 15 percent complete"></div>
     <p class="cpra-request-id">MuckRock Request #214822</p>
   </article>
+</div>
 
+### City of Rohnert Park
+
+_Cities_
+
+<div class="cpra-tracker-grid">
   <article class="cpra-tracker-item">
     <header>
       <h3><a href="https://www.muckrock.com/foi/rohnert-park-3403/flock-safety-alpr-records-contracts-audit-logs-sb-34-communications-rohnert-park-police-department-ca-214821/">Rohnert Park Police Department CA</a></h3>
@@ -67,7 +101,13 @@ _Auto-updated from MuckRock on 2026-07-04_
     <div class="cpra-progress cpra-processing" style="--cpra-progress: 15%;" role="img" aria-label="Processing: approximately 15 percent complete"></div>
     <p class="cpra-request-id">MuckRock Request #214821</p>
   </article>
+</div>
 
+### City of Santa Rosa
+
+_Cities_
+
+<div class="cpra-tracker-grid">
   <article class="cpra-tracker-item">
     <header>
       <h3><a href="https://www.muckrock.com/foi/santa-rosa-3437/flock-safety-alpr-records-contracts-audit-logs-sb-34-communications-santa-rosa-police-department-214823/">Santa Rosa Police Department</a></h3>
@@ -76,7 +116,13 @@ _Auto-updated from MuckRock on 2026-07-04_
     <div class="cpra-progress cpra-processing" style="--cpra-progress: 15%;" role="img" aria-label="Processing: approximately 15 percent complete"></div>
     <p class="cpra-request-id">MuckRock Request #214823</p>
   </article>
+</div>
 
+### City of Sebastopol
+
+_Cities_
+
+<div class="cpra-tracker-grid">
   <article class="cpra-tracker-item">
     <header>
       <h3><a href="https://www.muckrock.com/foi/sebastopol-3443/flock-safety-alpr-records-contracts-audit-logs-sb-34-communications-sebastopol-police-department-214819/">Sebastopol Police Department</a></h3>
@@ -85,7 +131,13 @@ _Auto-updated from MuckRock on 2026-07-04_
     <div class="cpra-progress cpra-processing" style="--cpra-progress: 15%;" role="img" aria-label="Processing: approximately 15 percent complete"></div>
     <p class="cpra-request-id">MuckRock Request #214819</p>
   </article>
+</div>
 
+### County of Sonoma
+
+_County of Sonoma_
+
+<div class="cpra-tracker-grid">
   <article class="cpra-tracker-item">
     <header>
       <h3><a href="https://www.muckrock.com/foi/sonoma-county-3071/flock-safety-alpr-records-contracts-audit-logs-sb-34-communications-sonoma-county-sheriffs-office-214824/">Sonoma County Sheriff's Office</a></h3>
@@ -94,7 +146,13 @@ _Auto-updated from MuckRock on 2026-07-04_
     <div class="cpra-progress cpra-processing" style="--cpra-progress: 15%;" role="img" aria-label="Processing: approximately 15 percent complete"></div>
     <p class="cpra-request-id">MuckRock Request #214824</p>
   </article>
+</div>
 
+### Town of Windsor
+
+_Towns_
+
+<div class="cpra-tracker-grid">
   <article class="cpra-tracker-item">
     <header>
       <h3><a href="https://www.muckrock.com/foi/windsor-3510/flock-safety-alpr-records-contracts-audit-logs-sb-34-communications-town-of-windsor-214815/">Town Of Windsor</a></h3>

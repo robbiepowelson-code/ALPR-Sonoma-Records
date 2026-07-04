@@ -113,6 +113,30 @@ function applyMonotonicProgress(requests, priorState) {
   }
 }
 
+function jurisdictionGroupForAgency(agency) {
+  const normalized = agency.toLowerCase()
+  if (normalized.includes("county") || normalized.includes("sheriff")) return "County of Sonoma"
+  if (normalized.includes("town")) return "Towns"
+  return "Cities"
+}
+
+function jurisdictionNameForAgency(agency) {
+  const normalized = agency.toLowerCase()
+  if (normalized.includes("cloverdale")) return "City of Cloverdale"
+  if (normalized.includes("cotati")) return "City of Cotati"
+  if (normalized.includes("healdsburg")) return "City of Healdsburg"
+  if (normalized.includes("petaluma")) return "City of Petaluma"
+  if (normalized.includes("rohnert")) return "City of Rohnert Park"
+  if (normalized.includes("santa rosa")) return "City of Santa Rosa"
+  if (normalized.includes("sebastopol")) return "City of Sebastopol"
+  if (normalized.includes("office of the city manager") || normalized.includes("sonoma-3453")) {
+    return "City of Sonoma"
+  }
+  if (normalized.includes("windsor")) return "Town of Windsor"
+  if (normalized.includes("county") || normalized.includes("sheriff")) return "County of Sonoma"
+  return agency
+}
+
 function parseRequests(html) {
   const requests = []
   const pattern =
@@ -175,9 +199,11 @@ async function fetchMultirequestHtml() {
 }
 
 function renderTrackerSection(requests, dateLabel) {
-  const rows = requests
+  const groupedRows = requests
     .map((req) => {
-      return [
+      const groupLabel = jurisdictionGroupForAgency(req.agency)
+      const jurisdictionLabel = jurisdictionNameForAgency(req.agency)
+      const row = [
         '  <article class="cpra-tracker-item">',
         "    <header>",
         `      <h3><a href="${req.href}">${req.agency}</a></h3>`,
@@ -186,6 +212,16 @@ function renderTrackerSection(requests, dateLabel) {
         `    <div class="cpra-progress ${req.progressClass}" style="--cpra-progress: ${req.progressPct}%;" role="img" aria-label="${req.status}: approximately ${req.progressPct} percent complete"></div>`,
         `    <p class="cpra-request-id">MuckRock Request #${req.requestId}</p>`,
         "  </article>",
+      ].join("\n")
+
+      return [
+        `### ${jurisdictionLabel}`,
+        "",
+        `_${groupLabel}_`,
+        "",
+        '<div class="cpra-tracker-grid">',
+        row,
+        "</div>",
       ].join("\n")
     })
     .join("\n\n")
@@ -201,9 +237,7 @@ function renderTrackerSection(requests, dateLabel) {
     "",
     `_Auto-updated from MuckRock on ${dateLabel}_`,
     "",
-    '<div class="cpra-tracker-grid">',
-    rows,
-    "</div>",
+    groupedRows,
   ].join("\n")
 }
 
