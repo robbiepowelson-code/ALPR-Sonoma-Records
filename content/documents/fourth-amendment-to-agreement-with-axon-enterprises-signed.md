@@ -1,6 +1,6 @@
 ---
-title: Fourth Amendment to Agreement with Axon Enterprises - signed.pdf
-  (contract (PDF, 10 pages))
+title: Fourth Amendment to Agreement with Axon Enterprises - signed - contract
+  (PDF, 10 pages)
 tags:
   - contract
   - pdf

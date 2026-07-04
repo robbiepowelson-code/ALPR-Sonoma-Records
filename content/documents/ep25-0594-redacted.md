@@ -1,5 +1,5 @@
 ---
-title: EP25-0594_Redacted.pdf (encroachment permit (PDF, 13 pages))
+title: EP25 - 0594 Redacted - encroachment permit (PDF, 13 pages)
 tags:
   - encroachment-permit
   - pdf

@@ -1,5 +1,5 @@
 ---
-title: Email.6_Red.pdf (email (PDF, 8 pages))
+title: Email 6 Red - email (PDF, 8 pages)
 tags:
   - email
   - pdf

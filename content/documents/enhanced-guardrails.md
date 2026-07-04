@@ -1,5 +1,5 @@
 ---
-title: Enhanced Guardrails.pdf (flock communications (PDF, 3 pages))
+title: Enhanced Guardrails - flock communications (PDF, 3 pages)
 tags:
   - flock-communications
   - pdf

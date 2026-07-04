@@ -1,6 +1,6 @@
 ---
-title: 2023-DLE-06_ California Automated License Plate Reader Data Guidance.pdf
-  (state guidance (PDF, 5 pages))
+title: 2023 - DLE - 06 California Automated License Plate Reader Data Guidance -
+  state guidance (PDF, 5 pages)
 tags:
   - state-guidance
   - pdf

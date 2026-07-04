@@ -1,5 +1,5 @@
 ---
-title: Email.1.pdf (email (PDF, 2 pages))
+title: Email 1 - email (PDF, 2 pages)
 tags:
   - email
   - pdf

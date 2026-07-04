@@ -51,7 +51,14 @@ function extractMetadata(markdown) {
   }
 
   const cleanType = fileType.replace(/\*+/g, "").trim()
-  const title = cleanType ? `${fileName} (${cleanType})` : fileName
+  const fileStem = fileName.replace(/\.[A-Za-z0-9]+$/, "")
+  const readableStem = fileStem
+    .replace(/[._]+/g, " ")
+    .replace(/\s*[-]+\s*/g, " - ")
+    .replace(/\s+/g, " ")
+    .trim()
+
+  const title = cleanType ? `${readableStem} - ${cleanType}` : readableStem
 
   return {
     title,

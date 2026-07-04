@@ -1,5 +1,5 @@
 ---
-title: Flock Alertsmsg.msg (email (MSG))
+title: Flock Alertsmsg - email (MSG)
 tags:
   - email
   - msg

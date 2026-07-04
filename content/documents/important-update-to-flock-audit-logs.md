@@ -1,5 +1,5 @@
 ---
-title: Important Update to Flock Audit Logs.pdf (audit log (PDF, 3 pages))
+title: Important Update to Flock Audit Logs - audit log (PDF, 3 pages)
 tags:
   - audit-log
   - pdf

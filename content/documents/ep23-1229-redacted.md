@@ -1,5 +1,5 @@
 ---
-title: EP23-1229_Redacted.pdf (encroachment permit (PDF, 23 pages))
+title: EP23 - 1229 Redacted - encroachment permit (PDF, 23 pages)
 tags:
   - encroachment-permit
   - pdf

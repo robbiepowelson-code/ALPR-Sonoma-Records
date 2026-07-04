@@ -1,5 +1,5 @@
 ---
-title: Flock Intromsg.msg (email (MSG))
+title: Flock Intromsg - email (MSG)
 tags:
   - email
   - msg

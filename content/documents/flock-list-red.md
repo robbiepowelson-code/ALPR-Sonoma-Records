@@ -1,5 +1,5 @@
 ---
-title: Flock-List.Red.csv (camera list (CSV))
+title: Flock - List Red - camera list (CSV)
 tags:
   - camera-list
   - csv

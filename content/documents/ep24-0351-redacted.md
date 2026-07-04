@@ -1,5 +1,5 @@
 ---
-title: EP24-0351_Redacted.pdf (encroachment permit (PDF, 7 pages))
+title: EP24 - 0351 Redacted - encroachment permit (PDF, 7 pages)
 tags:
   - encroachment-permit
   - pdf

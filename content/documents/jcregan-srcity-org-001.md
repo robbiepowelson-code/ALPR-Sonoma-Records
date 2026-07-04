@@ -1,5 +1,5 @@
 ---
-title: JCregan@srcity.org.001.pst (email archive (PST))
+title: JCregan@srcity org 001 - email archive (PST)
 tags:
   - email-archive
   - pst

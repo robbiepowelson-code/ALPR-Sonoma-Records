@@ -1,5 +1,5 @@
 ---
-title: Event Logs - Network Share Settings Log - Items 3d and 3e.csv (audit log (CSV))
+title: Event Logs - Network Share Settings Log - Items 3d and 3e - audit log (CSV)
 tags:
   - audit-log
   - csv

@@ -1,5 +1,5 @@
 ---
-title: Community Questions.pdf (flock communications (PDF, 5 pages))
+title: Community Questions - flock communications (PDF, 5 pages)
 tags:
   - flock-communications
   - pdf

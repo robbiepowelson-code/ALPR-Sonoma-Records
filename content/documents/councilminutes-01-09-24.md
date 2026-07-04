@@ -1,5 +1,5 @@
 ---
-title: CouncilMinutes.01-09-24.pdf (council minutes (PDF, 23 pages))
+title: CouncilMinutes 01 - 09 - 24 - council minutes (PDF, 23 pages)
 tags:
   - council-minutes
   - pdf

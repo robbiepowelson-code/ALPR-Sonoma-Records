@@ -1,5 +1,5 @@
 ---
-title: Camera Statusesmsg.msg (email (MSG))
+title: Camera Statusesmsg - email (MSG)
 tags:
   - email
   - msg

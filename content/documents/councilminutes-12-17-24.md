@@ -1,5 +1,5 @@
 ---
-title: CouncilMinutes.12-17-24.pdf (council minutes (PDF, 20 pages))
+title: CouncilMinutes 12 - 17 - 24 - council minutes (PDF, 20 pages)
 tags:
   - council-minutes
   - pdf

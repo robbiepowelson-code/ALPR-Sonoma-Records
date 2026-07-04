@@ -1,6 +1,6 @@
 ---
 title: Flock Group, Inc between City Of Santa Rosa, Mark Smith, Jessica Mullan,
-  and 3 more is Signed and Filed!msg.msg (email (MSG))
+  and 3 more is Signed and Filed!msg - email (MSG)
 tags:
   - email
   - msg

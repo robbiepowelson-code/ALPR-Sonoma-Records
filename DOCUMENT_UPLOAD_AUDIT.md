@@ -1,0 +1,99 @@
+# Upload Readiness: Documents
+
+Total documents: 81
+All are under content/documents/.
+
+## Top Tags
+- pdf: 37
+- utility-records: 23
+- jpg: 19
+- email: 18
+- msg: 13
+- encroachment-permit: 10
+- csv: 6
+- email-archive: 5
+- pst: 5
+- audit-log: 5
+
+## File -> Descriptive Name
+- 1981-0075-001.md -> 1981 - 0075 001 - utility records (JPG)
+- 1981-0075-002.md -> 1981 - 0075 002 - utility records (JPG)
+- 1981-0075-003.md -> 1981 - 0075 003 - utility records (JPG)
+- 1981-0075-004.md -> 1981 - 0075 004 - utility records (JPG)
+- 1981-0075-005.md -> 1981 - 0075 005 - utility records (JPG)
+- 1981-0075-006.md -> 1981 - 0075 006 - utility records (JPG)
+- 2012-0039-004.md -> 2012 - 0039 004 - utility records (JPG)
+- 2012-0039-c1.md -> 2012 - 0039 ~C1 - utility records (JPG)
+- 2012-0039-c2.md -> 2012 - 0039 ~C2 - utility records (JPG)
+- 2012-0039-c3.md -> 2012 - 0039 ~C3 - utility records (JPG)
+- 2014-0047-001.md -> 2014 - 0047 ~001 - utility records (JPG)
+- 2014-0047-002.md -> 2014 - 0047 ~002 - utility records (JPG)
+- 2014-0047-003.md -> 2014 - 0047 ~003 - utility records (JPG)
+- 2014-0047-004.md -> 2014 - 0047 ~004 - utility records (JPG)
+- 2014-0047-005.md -> 2014 - 0047 ~005 - utility records (JPG)
+- 2014-0047-006.md -> 2014 - 0047 ~006 - utility records (JPG)
+- 2014-0047-007.md -> 2014 - 0047 ~007 - utility records (JPG)
+- 2014-0047-008.md -> 2014 - 0047 ~008 - utility records (JPG)
+- 2014-0047-009.md -> 2014 - 0047 ~009 - utility records (JPG)
+- 2023-dle-06-california-automated-license-plate-reader-data-guidance.md -> 2023 - DLE - 06 California Automated License Plate Reader Data Guidance - state guidance (PDF, 5 pages)
+- acastro-srcity-org-001.md -> acastro@srcity org 001 - email archive (PST)
+- alpr-policymsg.md -> ALPR Policymsg - email (MSG)
+- camera-statusesmsg.md -> Camera Statusesmsg - email (MSG)
+- community-questions.md -> Community Questions - flock communications (PDF, 5 pages)
+- councilminutes-01-09-24.md -> CouncilMinutes 01 - 09 - 24 - council minutes (PDF, 23 pages)
+- councilminutes-12-17-24.md -> CouncilMinutes 12 - 17 - 24 - council minutes (PDF, 20 pages)
+- email-1.md -> Email 1 - email (PDF, 2 pages)
+- email-2.md -> Email 2 - email (PDF, 1 pages)
+- email-3.md -> Email 3 - email (PDF, 4 pages)
+- email-4.md -> Email 4 - email (PDF, 1 pages)
+- email-5.md -> Email 5 - email (PDF, 42 pages)
+- email-6-red.md -> Email 6 Red - email (PDF, 8 pages)
+- enhanced-guardrails.md -> Enhanced Guardrails - flock communications (PDF, 3 pages)
+- ep23-1229-redacted.md -> EP23 - 1229 Redacted - encroachment permit (PDF, 23 pages)
+- ep24-0269-redacted.md -> EP24 - 0269 Redacted - encroachment permit (PDF, 14 pages)
+- ep24-0271-redacted.md -> EP24 - 0271 Redacted - encroachment permit (PDF, 13 pages)
+- ep24-0351-redacted.md -> EP24 - 0351 Redacted - encroachment permit (PDF, 7 pages)
+- ep24-1237-redacted.md -> EP24 - 1237 Redacted - encroachment permit (PDF, 13 pages)
+- ep25-0135-redacted.md -> EP25 - 0135 Redacted - encroachment permit (PDF, 30 pages)
+- ep25-0353-redacted.md -> EP25 - 0353 Redacted - encroachment permit (PDF, 10 pages)
+- ep25-0396-redacted.md -> EP25 - 0396 Redacted - encroachment permit (PDF, 11 pages)
+- ep25-0594-redacted.md -> EP25 - 0594 Redacted - encroachment permit (PDF, 13 pages)
+- ep25-0895-redacted.md -> EP25 - 0895 Redacted - encroachment permit (PDF, 12 pages)
+- event-logs-network-share-log-create-items-3-and-3c.md -> Event Logs - Network Share Log - Create - Items 3 and 3c - audit log (CSV)
+- event-logs-network-share-log-delete-items-3-and-3c.md -> Event Logs - Network Share Log - Delete - Items 3 and 3c - audit log (CSV)
+- event-logs-network-share-settings-log-items-3d-and-3e.md -> Event Logs - Network Share Settings Log - Items 3d and 3e - audit log (CSV)
+- f002713.md -> F002713 - contract (PDF, 28 pages)
+- f002959.md -> F002959 - contract (PDF, 27 pages)
+- featuresmsg.md -> Featuresmsg - email (MSG)
+- fleming-fw-external-fwd-srpd-and-flock-cameras.md -> Fleming Fw EXTERNAL Fwd SRPD and Flock Cameras - email (MSG)
+- fleming-re-external-fwd-oregon-letter-re-license-plate-readers.md -> Fleming Re EXTERNAL Fwd Oregon Letter Re License Plate Readers - email (MSG)
+- flock-alertsmsg.md -> Flock Alertsmsg - email (MSG)
+- flock-api-documentationmsg.md -> FLOCK API documentationmsg - email (MSG)
+- flock-audit-12-21-25to01-19-26.md -> Flock Audit 12 - 21 - 25to01 - 19 - 26 - audit log (CSV)
+- flock-camera-installsmsg.md -> Flock Camera Installsmsg - email (MSG)
+- flock-datamsg.md -> Flock Datamsg - email (MSG)
+- flock-group-inc-between-city-of-santa-rosa-mark-smith-jessica-mullan-and-3-more-is-signed-and-filed-msg.md -> Flock Group, Inc between City Of Santa Rosa, Mark Smith, Jessica Mullan, and 3 more is Signed and Filed!msg - email (MSG)
+- flock-integration-with-axon-fleet-3msg.md -> Flock Integration with Axon Fleet 3msg - contract (MSG)
+- flock-intromsg.md -> Flock Intromsg - email (MSG)
+- flock-list-red-2.md -> Flock - List Red - camera list (CSV)
+- flock-list-red.md -> Flock - List Red - camera list (CSV)
+- flock-os-elite-and-firsttwomsg.md -> Flock OS Elite and FirstTwomsg - email (MSG)
+- fourth-amendment-to-agreement-with-axon-enterprises-signed.md -> Fourth Amendment to Agreement with Axon Enterprises - signed - contract (PDF, 10 pages)
+- gis-map.md -> GIS Map - utility records (PDF, 1 pages)
+- ii2907.md -> II2907 - utility records (PDF, 1 pages)
+- important-update-to-flock-audit-logs.md -> Important Update to Flock Audit Logs - audit log (PDF, 3 pages)
+- jcregan-srcity-org-001.md -> JCregan@srcity org 001 - email archive (PST)
+- jludtke-srcity-org-001.md -> JLudtke@srcity org 001 - email archive (PST)
+- jvickers-srcity-org-001.md -> jvickers@srcity org 001 - email archive (PST)
+- press-release.md -> Press - Release - flock communications (PDF, 1 pages)
+- rcorcoran-srcity-org-001.md -> RCorcoran@srcity org 001 - email archive (PST)
+- resolution.md -> Resolution - resolution (PDF, 2 pages)
+- resolution1.md -> Resolution1 - resolution (PDF, 2 pages)
+- s-ii2907.md -> S II2907 - utility records (PDF, 1 pages)
+- sonoma-jurisdiction-map.md -> Sonoma Jurisdiction Map
+- staff-report-1-9-2024.md -> Staff Report 1 - 9 - 2024 - staff report (PDF, 4 pages)
+- staff-report-12-17-2024.md -> Staff Report 12 - 17 - 2024 - staff report (PDF, 3 pages)
+- staff-report1.md -> Staff Report1 - staff report (PDF, 4 pages)
+- staff-report2.md -> Staff Report2 - staff report (PDF, 3 pages)
+- stapp.md -> Stapp - other (PDF, 2 pages)
+- w-ii2907.md -> W II2907 - utility records (PDF, 1 pages)

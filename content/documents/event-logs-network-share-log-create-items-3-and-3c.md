@@ -1,5 +1,5 @@
 ---
-title: Event Logs - Network Share Log - Create - Items 3 and 3c.csv (audit log (CSV))
+title: Event Logs - Network Share Log - Create - Items 3 and 3c - audit log (CSV)
 tags:
   - audit-log
   - csv
