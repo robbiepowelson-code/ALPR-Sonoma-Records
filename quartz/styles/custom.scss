@@ -1,3 +1,36 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+body[data-slug="index"] {
+	.page > #quartz-body {
+		grid-template-columns: minmax(0, 1fr);
+		grid-template-areas:
+			"grid-header"
+			"grid-sidebar-right"
+			"grid-center"
+			"grid-footer";
+	}
+
+	.page > #quartz-body .sidebar.left {
+		display: none;
+	}
+
+	.page > #quartz-body .sidebar.right {
+		position: initial;
+		height: auto;
+		padding: 0;
+	}
+
+	.page > #quartz-body .sidebar.right .toc {
+		display: none;
+	}
+
+	.page > #quartz-body .sidebar.right .graph .graph-outer {
+		height: min(72vh, 52rem);
+	}
+
+	.page > #quartz-body .center {
+		padding-top: 1rem;
+	}
+}
