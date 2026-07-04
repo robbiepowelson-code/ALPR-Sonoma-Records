@@ -12,4 +12,4 @@ tags: [email, msg]
 
 ## Excerpt
 
-> Excerpt unavailable because the extracted source text is mostly metadata. Use the full file download link above.
+> Root Entry __substg1.0_10130102 __substg1.0_0040001F __substg1.0_0076001F "url/prefixText": "Facebook Twitter Instagram", "url/suffixText": "Nixle", "url/urlTextSpan": { "@type": "TextSpan", "beginIndex": 33, "length": 8 "@EntityId": Vickers, James "@ty/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=551ABC1489E04FCF913946E9734E8966-VICKERS, JAMES 1f6280d;en-US.ContextUrl,52.EX __substg1.0_0075001F __substg1.0_003F0102 __substg1.0_5D07001F __substg1.0_0044001F Stype": "TextSpanjvickers@srcity.org Vickers, James "@En/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE G

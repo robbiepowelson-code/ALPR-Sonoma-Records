@@ -12,4 +12,4 @@ tags: [email, msg]
 
 ## Excerpt
 
-> Excerpt unavailable because the extracted source text is mostly metadata. Use the full file download link above.
+> Root Entry __nameid_version1.0 __substg1.0_00020102 __substg1.0_00030102 __substg1.0_00040102 __substg1.0_10010102 __substg1.0_10020102 __substg1.0_10030102 ExchangeApplicationFlags6 ConversationIndexTrackingEx HeaderBodyFragmentList HasQuotedText IsQuotedTextChanged ConversationTreeParentRecordKey NetworkMessageId ClientInfo2 CurrentMessageSafetyFlags acceptlanguage, x-ms-publictraffictype, LatestMessageWordCount: InferenceClassificationResult EntityExtraction/ExtractLanguage1.0 IsSigned IsReadReceipt X-Microsoft-Antispam-Message-Info InferenceMessageIdentifierB InferenceClassificationTrackin
