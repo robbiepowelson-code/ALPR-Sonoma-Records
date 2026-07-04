@@ -2,6 +2,18 @@
 
 // put your custom CSS here!
 
+h1,
+h2,
+h3,
+.page-title {
+	letter-spacing: 0.015em;
+	text-transform: uppercase;
+}
+
+.page-title a {
+	font-weight: 600;
+}
+
 body[data-slug="index"] {
 	.page > #quartz-body {
 		grid-template-columns: minmax(0, 1fr);
