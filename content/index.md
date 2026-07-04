@@ -6,6 +6,10 @@ A public archive of every document produced by the City of Santa Rosa in respons
 
 Use the **graph view** to explore how documents connect to requests and themes, or start with a theme below.
 
+## Quick links
+
+- [[documents/gis-map|Map of Documents (GIS Map)]]
+
 ## What the records show
 
 **The program.** Santa Rosa contracted with Flock Group Inc. in two phases. [[documents/f002713|Agreement F002713]] (approved January 9, 2024) purchased 31 Falcon ALPR cameras and 3 long-range Falcon LR units for **\$421,650 over three years**. [[documents/f002959|Agreement F002959]] (approved December 17, 2024) expanded the system with 70 more Falcon cameras, plus **14 Condor PTZ live-video cameras with LTE** — bringing the city's total commitment to roughly **\$1.32 million** and over 100 cameras. Both contracts set a 30-day data retention period and auto-renew unless cancelled 30 days before term end.
