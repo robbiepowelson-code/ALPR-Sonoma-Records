@@ -1,5 +1,5 @@
 ---
-title: Staff Report1 - staff report (PDF, 4 pages)
+title: Staff Report1 (PDF)
 tags:
   - staff-report
   - pdf

@@ -1,5 +1,5 @@
 ---
-title: ALPR Policymsg - email (MSG)
+title: ALPR Policymsg (MSG)
 tags:
   - email
   - msg

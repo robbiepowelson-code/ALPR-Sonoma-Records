@@ -1,5 +1,5 @@
 ---
-title: JLudtke@srcity org 001 - email archive (PST)
+title: Jludtke@srcity Org 001 (PST)
 tags:
   - email-archive
   - pst

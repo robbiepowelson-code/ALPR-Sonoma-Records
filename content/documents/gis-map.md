@@ -1,5 +1,5 @@
 ---
-title: GIS Map - utility records (PDF, 1 pages)
+title: GIS Map (PDF)
 tags:
   - utility-records
   - pdf

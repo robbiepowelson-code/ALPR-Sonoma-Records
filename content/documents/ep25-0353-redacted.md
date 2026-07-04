@@ -1,5 +1,5 @@
 ---
-title: EP25 - 0353 Redacted - encroachment permit (PDF, 10 pages)
+title: EP25-0353 Redacted (PDF)
 tags:
   - encroachment-permit
   - pdf

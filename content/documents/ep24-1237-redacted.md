@@ -1,5 +1,5 @@
 ---
-title: EP24 - 1237 Redacted - encroachment permit (PDF, 13 pages)
+title: EP24-1237 Redacted (PDF)
 tags:
   - encroachment-permit
   - pdf

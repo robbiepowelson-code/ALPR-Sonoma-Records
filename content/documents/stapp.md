@@ -1,5 +1,5 @@
 ---
-title: Stapp - other (PDF, 2 pages)
+title: Stapp (PDF)
 tags:
   - other
   - pdf

@@ -39,26 +39,47 @@ function markdownToPlainText(markdown) {
     .trim()
 }
 
+function toTitleCase(input) {
+  return input
+    .split(" ")
+    .filter(Boolean)
+    .map((part) => {
+      if (/^[A-Z0-9-]+$/.test(part)) return part
+      return part.charAt(0).toUpperCase() + part.slice(1).toLowerCase()
+    })
+    .join(" ")
+}
+
+function toReadableTitle(fileName) {
+  const extMatch = fileName.match(/\.([A-Za-z0-9]+)$/)
+  const fileExt = extMatch ? extMatch[1].toUpperCase() : "DOC"
+
+  const stem = fileName.replace(/\.[A-Za-z0-9]+$/, "")
+  const cleaned = stem
+    .replace(/\bmsg\b/gi, "")
+    .replace(/\bredacted\b/gi, "")
+    .replace(/[_\.]+/g, " ")
+    .replace(/\s*[-]+\s*/g, "-")
+    .replace(/\s+/g, " ")
+    .trim()
+
+  // Keep IDs and key terms visible while avoiding graph-node overflow.
+  const maxChars = 44
+  const clamped = cleaned.length > maxChars ? `${cleaned.slice(0, maxChars - 1).trim()}…` : cleaned
+  const title = toTitleCase(clamped)
+
+  return `${title} (${fileExt})`
+}
+
 function extractMetadata(markdown) {
   const fileMatch = markdown.match(/\*\*File:\*\*\s*`([^`]+)`/i)
-  const typeMatch = markdown.match(/\*\*Type:\*\*\s*([^\n]+)/i)
 
   const fileName = fileMatch?.[1]?.trim() || ""
-  const fileType = typeMatch?.[1]?.trim() || ""
 
   if (!fileName) {
     return null
   }
-
-  const cleanType = fileType.replace(/\*+/g, "").trim()
-  const fileStem = fileName.replace(/\.[A-Za-z0-9]+$/, "")
-  const readableStem = fileStem
-    .replace(/[._]+/g, " ")
-    .replace(/\s*[-]+\s*/g, " - ")
-    .replace(/\s+/g, " ")
-    .trim()
-
-  const title = cleanType ? `${readableStem} - ${cleanType}` : readableStem
+  const title = toReadableTitle(fileName)
 
   return {
     title,

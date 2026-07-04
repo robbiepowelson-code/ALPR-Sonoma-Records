@@ -1,5 +1,5 @@
 ---
-title: Staff Report 1 - 9 - 2024 - staff report (PDF, 4 pages)
+title: Staff Report 1-9-2024 (PDF)
 tags:
   - staff-report
   - pdf

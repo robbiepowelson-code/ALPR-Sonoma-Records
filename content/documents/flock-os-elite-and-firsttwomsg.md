@@ -1,5 +1,5 @@
 ---
-title: Flock OS Elite and FirstTwomsg - email (MSG)
+title: Flock OS Elite And Firsttwomsg (MSG)
 tags:
   - email
   - msg

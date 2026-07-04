@@ -1,5 +1,5 @@
 ---
-title: Resolution1 - resolution (PDF, 2 pages)
+title: Resolution1 (PDF)
 tags:
   - resolution
   - pdf

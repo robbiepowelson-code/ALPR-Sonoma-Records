@@ -1,5 +1,5 @@
 ---
-title: Email 5 - email (PDF, 42 pages)
+title: Email 5 (PDF)
 tags:
   - email
   - pdf

@@ -1,5 +1,5 @@
 ---
-title: Featuresmsg - email (MSG)
+title: Featuresmsg (MSG)
 tags:
   - email
   - msg

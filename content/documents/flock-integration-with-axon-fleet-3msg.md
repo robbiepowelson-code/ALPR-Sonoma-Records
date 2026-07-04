@@ -1,5 +1,5 @@
 ---
-title: Flock Integration with Axon Fleet 3msg - contract (MSG)
+title: Flock Integration With Axon Fleet 3msg (MSG)
 tags:
   - contract
   - msg

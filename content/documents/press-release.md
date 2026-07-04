@@ -1,5 +1,5 @@
 ---
-title: Press - Release - flock communications (PDF, 1 pages)
+title: Press-release (PDF)
 tags:
   - flock-communications
   - pdf

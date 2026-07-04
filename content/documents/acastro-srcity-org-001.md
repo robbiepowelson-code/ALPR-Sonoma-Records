@@ -1,5 +1,5 @@
 ---
-title: acastro@srcity org 001 - email archive (PST)
+title: Acastro@srcity Org 001 (PST)
 tags:
   - email-archive
   - pst

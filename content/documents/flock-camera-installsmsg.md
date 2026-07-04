@@ -1,5 +1,5 @@
 ---
-title: Flock Camera Installsmsg - email (MSG)
+title: Flock Camera Installsmsg (MSG)
 tags:
   - email
   - msg

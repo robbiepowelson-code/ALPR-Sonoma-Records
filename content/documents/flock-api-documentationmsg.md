@@ -1,5 +1,5 @@
 ---
-title: FLOCK API documentationmsg - email (MSG)
+title: FLOCK API Documentationmsg (MSG)
 tags:
   - email
   - msg

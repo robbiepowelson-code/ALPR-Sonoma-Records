@@ -1,5 +1,5 @@
 ---
-title: EP24 - 0271 Redacted - encroachment permit (PDF, 13 pages)
+title: EP24-0271 Redacted (PDF)
 tags:
   - encroachment-permit
   - pdf
