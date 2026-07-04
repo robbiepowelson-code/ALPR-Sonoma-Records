@@ -150,3 +150,16 @@ body[data-slug="index"] {
 	font-size: 0.85rem;
 	color: var(--gray);
 }
+
+.search .result-card .card-description {
+	display: -webkit-box;
+	-webkit-line-clamp: 8;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	line-height: 1.5;
+	max-height: none;
+}
+
+.search .result-card .card-title {
+	line-height: 1.35;
+}

@@ -1,6 +1,21 @@
 ---
-title: "Flock Intromsg"
-tags: [email, msg]
+title: Flock Intromsg.msg (email (MSG))
+tags:
+  - email
+  - msg
+description: "File: Flock Intromsg.msg Type: email (MSG) Theme: Emails & Vendor
+  Communications Produced in: Request 26-5 Source: NextRequest 26-5
+  (https://cityofsantarosaca.nextrequest.com/requests/26-5) Download full file:
+  Download from NextRequest
+  (https://cityofsantarosaca.nextrequest.com/requests/26-5) Excerpt Root Entry
+  substg1.00E02001F substg1.010130102 substg1.00040001F Cregan, John
+  /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP
+  (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=26217A801E6E4ACD8034E795EB142830-CREGAN,
+  JOHN CD8034E795EB142830-CREGAN, JOHEX substg1.08003001F substg1.080040102
+  substg1.00076001F substg1.00075001F substg1.0003F0102 substg1.05D07001F
+  JCregan@srcity.org Cregan, John /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE
+  GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=26217A801E6Esubstg1.00044001F
+  substg1.00078001F substg1.00077001F substg1.000430102 4ACD8034E795"
 ---
 
 **File:** `Flock Intromsg.msg`  

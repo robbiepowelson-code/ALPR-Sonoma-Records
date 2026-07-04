@@ -1,6 +1,22 @@
 ---
-title: "Flock Alertsmsg"
-tags: [email, msg]
+title: Flock Alertsmsg.msg (email (MSG))
+tags:
+  - email
+  - msg
+description: "File: Flock Alertsmsg.msg Type: email (MSG) Theme: Emails & Vendor
+  Communications Produced in: Request 26-5 Source: NextRequest 26-5
+  (https://cityofsantarosaca.nextrequest.com/requests/26-5) Download full file:
+  Download from NextRequest
+  (https://cityofsantarosaca.nextrequest.com/requests/26-5) Excerpt Root Entry
+  substg1.010130102 substg1.00040001F substg1.00076001F Ambrosi, Brian
+  /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP
+  (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=7897BCEFAC274651A7D746D747455CDD-AMBROSI,
+  BRIAN substg1.00075001F substg1.0003F0102 substg1.05D07001F substg1.00044001F
+  BAmbrosi@srcity.org Ambrosi, Brian /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE
+  GROUP
+  (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=7897BCEFAC274651A7D746D747455CDD-AMBROSI,
+  BRsubstg1.00078001F substg1.00077001F substg1.000430102 substg1.05D08001F
+  BAmbrosi@srcity.org Graham Carter graham.carter@"
 ---
 
 **File:** `Flock Alertsmsg.msg`  

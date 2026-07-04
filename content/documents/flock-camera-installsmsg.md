@@ -1,6 +1,21 @@
 ---
-title: "Flock Camera Installsmsg"
-tags: [email, msg]
+title: Flock Camera Installsmsg.msg (email (MSG))
+tags:
+  - email
+  - msg
+description: "File: Flock Camera Installsmsg.msg Type: email (MSG) Theme: Emails
+  & Vendor Communications Produced in: Request 26-5 Source: NextRequest 26-5
+  (https://cityofsantarosaca.nextrequest.com/requests/26-5) Download full file:
+  Download from NextRequest
+  (https://cityofsantarosaca.nextrequest.com/requests/26-5) Excerpt Root Entry
+  substg1.010130102 substg1.00042001F substg1.00065001F Ambrosi, Brian
+  /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP
+  (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=7897BCEFAC274651A7D746D747455CDD-AMBROSI,
+  BRIAN substg1.00064001F substg1.000410102 substg1.00C1A001F substg1.00C1F001F
+  Ambrosi, Brian /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP
+  (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=7897BCEFAC274651A7D746D747455CDD-AMBROSI,
+  BRIAN substg1.00C1E001F substg1.00C190102 substg1.00E0B0102 substg1.065E20102
+  IPM.Note substg1.0001A001F substg1.080000048 substg1.00"
 ---
 
 **File:** `Flock Camera Installsmsg.msg`  
