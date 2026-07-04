@@ -8,6 +8,7 @@ tags: [state-guidance, pdf]
 **Theme:** [[themes/policy-guidance|Policy & Guidance]]  
 **Produced in:** [[requests/25-1515|Request 25-1515]]  
 **Source:** [NextRequest 25-1515](https://cityofsantarosaca.nextrequest.com/requests/25-1515)
+**Download full file:** [Download from NextRequest](https://cityofsantarosaca.nextrequest.com/requests/25-1515)
 
 ## Excerpt
 

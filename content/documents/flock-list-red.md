@@ -8,6 +8,7 @@ tags: [camera-list, csv]
 **Theme:** [[themes/camera-locations|Camera Locations]]  
 **Produced in:** [[requests/25-1465|Request 25-1465]], [[requests/25-1532|Request 25-1532]]  
 **Source:** [NextRequest 25-1465](https://cityofsantarosaca.nextrequest.com/requests/25-1465), [NextRequest 25-1532](https://cityofsantarosaca.nextrequest.com/requests/25-1532)
+**Download full file:** [Download from NextRequest](https://cityofsantarosaca.nextrequest.com/requests/25-1465)
 
 **CSV:** 4193 rows. Columns: ` Org Name, Total Networks Searched, Total Devices Searched,  Time Frame,  Reason,  Filters,  Search Time,  Search Type`
 

@@ -8,6 +8,7 @@ tags: [audit-log, csv]
 **Theme:** [[themes/audit-logs|Audit Logs]]  
 **Produced in:** [[requests/26-744|Request 26-744]]  
 **Source:** [NextRequest 26-744](https://cityofsantarosaca.nextrequest.com/requests/26-744)
+**Download full file:** [Download from NextRequest](https://cityofsantarosaca.nextrequest.com/requests/26-744)
 
 **CSV:** 426 rows. Columns: `Timestamp, User, Event Type, Entity Type, Entity Details, Event Id`
 

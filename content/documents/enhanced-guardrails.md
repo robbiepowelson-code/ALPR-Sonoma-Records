@@ -8,6 +8,7 @@ tags: [flock-communications, pdf]
 **Theme:** [[themes/policy-guidance|Policy & Guidance]]  
 **Produced in:** [[requests/26-596|Request 26-596]]  
 **Source:** [NextRequest 26-596](https://cityofsantarosaca.nextrequest.com/requests/26-596)
+**Download full file:** [Download from NextRequest](https://cityofsantarosaca.nextrequest.com/requests/26-596)
 
 ## Excerpt
 

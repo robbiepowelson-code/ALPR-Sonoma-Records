@@ -8,6 +8,7 @@ tags: [staff-report, pdf]
 **Theme:** [[themes/council-actions|Council Actions]]  
 **Produced in:** [[requests/26-356|Request 26-356]], [[requests/26-513|Request 26-513]]  
 **Source:** [NextRequest 26-356](https://cityofsantarosaca.nextrequest.com/requests/26-356), [NextRequest 26-513](https://cityofsantarosaca.nextrequest.com/requests/26-513)
+**Download full file:** [Download from NextRequest](https://cityofsantarosaca.nextrequest.com/requests/26-356)
 
 ## Excerpt
 

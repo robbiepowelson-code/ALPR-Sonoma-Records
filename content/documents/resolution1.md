@@ -8,6 +8,7 @@ tags: [resolution, pdf]
 **Theme:** [[themes/council-actions|Council Actions]]  
 **Produced in:** [[requests/26-5|Request 26-5]]  
 **Source:** [NextRequest 26-5](https://cityofsantarosaca.nextrequest.com/requests/26-5)
+**Download full file:** [Download from NextRequest](https://cityofsantarosaca.nextrequest.com/requests/26-5)
 
 ## Excerpt
 

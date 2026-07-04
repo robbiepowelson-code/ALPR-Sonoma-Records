@@ -8,6 +8,7 @@ tags: [council-minutes, pdf]
 **Theme:** [[themes/council-actions|Council Actions]]  
 **Produced in:** [[requests/25-1515|Request 25-1515]], [[requests/25-1524|Request 25-1524]], [[requests/25-1532|Request 25-1532]], [[requests/26-103|Request 26-103]], [[requests/26-356|Request 26-356]], [[requests/26-513|Request 26-513]]  
 **Source:** [NextRequest 25-1515](https://cityofsantarosaca.nextrequest.com/requests/25-1515), [NextRequest 25-1524](https://cityofsantarosaca.nextrequest.com/requests/25-1524), [NextRequest 25-1532](https://cityofsantarosaca.nextrequest.com/requests/25-1532), [NextRequest 26-103](https://cityofsantarosaca.nextrequest.com/requests/26-103), [NextRequest 26-356](https://cityofsantarosaca.nextrequest.com/requests/26-356), [NextRequest 26-513](https://cityofsantarosaca.nextrequest.com/requests/26-513)
+**Download full file:** [Download from NextRequest](https://cityofsantarosaca.nextrequest.com/requests/25-1515)
 
 ## Excerpt
 

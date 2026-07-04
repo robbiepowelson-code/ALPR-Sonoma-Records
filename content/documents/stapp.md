@@ -8,6 +8,7 @@ tags: [other, pdf]
 **Theme:** [[themes/miscellaneous|Miscellaneous]]  
 **Produced in:** [[requests/25-1532|Request 25-1532]]  
 **Source:** [NextRequest 25-1532](https://cityofsantarosaca.nextrequest.com/requests/25-1532)
+**Download full file:** [Download from NextRequest](https://cityofsantarosaca.nextrequest.com/requests/25-1532)
 
 ## Excerpt
 

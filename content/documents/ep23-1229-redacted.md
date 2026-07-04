@@ -8,6 +8,7 @@ tags: [encroachment-permit, pdf]
 **Theme:** [[themes/camera-locations|Camera Locations]]  
 **Produced in:** [[requests/26-191|Request 26-191]]  
 **Source:** [NextRequest 26-191](https://cityofsantarosaca.nextrequest.com/requests/26-191)
+**Download full file:** [Download from NextRequest](https://cityofsantarosaca.nextrequest.com/requests/26-191)
 
 ## Excerpt
 
