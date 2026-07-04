@@ -6,8 +6,12 @@
       "destination": "/index.html"
     },
     {
-      "source": "/:path((?!.*\\..*).*)",
-      "destination": "/:path.html"
+      "source": "/:slug",
+      "destination": "/:slug.html"
+    },
+    {
+      "source": "/:section/:slug",
+      "destination": "/:section/:slug.html"
     }
   ]
 }
