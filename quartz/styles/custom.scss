@@ -7,13 +7,32 @@ body[data-slug="index"] {
 		grid-template-columns: minmax(0, 1fr);
 		grid-template-areas:
 			"grid-header"
+			"grid-sidebar-left"
 			"grid-sidebar-right"
 			"grid-center"
 			"grid-footer";
 	}
 
 	.page > #quartz-body .sidebar.left {
+		display: block;
+		position: initial;
+		height: auto;
+		padding: 0;
+	}
+
+	.page > #quartz-body .sidebar.left .explorer,
+	.page > #quartz-body .sidebar.left .mobile-only,
+	.page > #quartz-body .sidebar.left .darkmode,
+	.page > #quartz-body .sidebar.left .readermode {
 		display: none;
+	}
+
+	.page > #quartz-body .sidebar.left .page-title {
+		margin-bottom: 0.65rem;
+	}
+
+	.page > #quartz-body .sidebar.left .search {
+		max-width: min(28rem, 100%);
 	}
 
 	.page > #quartz-body .sidebar.right {
