@@ -13,13 +13,15 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
+    "build": "npx quartz build",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
-    "prebuild": "npm run install-plugins"
+    "update-muckrock-tracker": "node ./scripts/update-muckrock-tracker.mjs",
+    "prebuild": "npm run update-muckrock-tracker"
   },
   "engines": {
     "npm": ">=10.9.2",
