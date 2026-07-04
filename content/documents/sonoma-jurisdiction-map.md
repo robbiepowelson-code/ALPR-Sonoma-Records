@@ -44,6 +44,12 @@ description: "A jurisdiction map for CPRA and Flock-related records across
 
 A jurisdiction map for CPRA and Flock-related records across Sonoma cities, towns, and county agencies.
 
+## Quick Jurisdiction Index
+
+- Cities: [City of Cloverdale](#city-of-cloverdale), [City of Cotati](#city-of-cotati), [City of Healdsburg](#city-of-healdsburg), [City of Petaluma](#city-of-petaluma), [City of Rohnert Park](#city-of-rohnert-park), [City of Santa Rosa](#city-of-santa-rosa), [City of Sebastopol](#city-of-sebastopol), [City of Sonoma](#city-of-sonoma)
+- Towns: [Town of Windsor](#town-of-windsor)
+- County: [County of Sonoma](#county-of-sonoma)
+
 ## Cities
 
 ### City of Santa Rosa
@@ -87,7 +93,7 @@ A jurisdiction map for CPRA and Flock-related records across Sonoma cities, town
 
 ## County of Sonoma
 
-### Sonoma County
+### County of Sonoma
 
 - MuckRock tracker entry: [Sonoma County Sheriff's Office](https://www.muckrock.com/foi/sonoma-county-3071/flock-safety-alpr-records-contracts-audit-logs-sb-34-communications-sonoma-county-sheriffs-office-214803/)
 
